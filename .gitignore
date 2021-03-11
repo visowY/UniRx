@@ -131,3 +131,4 @@ Assets/WSATestCertificate.pfx
 .vs/
 
 Packages
+*.csproj
