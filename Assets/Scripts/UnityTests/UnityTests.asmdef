@@ -1,7 +1,6 @@
 {
     "name": "UnityTests",
     "references": [
-        "UniRx.Async",
         "UniRx"
     ],
     "optionalUnityReferences": [
@@ -9,5 +8,9 @@
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
-    "allowUnsafeCode": false
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
 }
